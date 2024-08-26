@@ -1,0 +1,2 @@
+user_id,login_time,action_count,location_Home,location_Office,cluster,distance_to_center,anomaly
+10,1.7510180831751245,2.113082175181497,True,False,0,0.7921389061956468,True

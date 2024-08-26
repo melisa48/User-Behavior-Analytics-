@@ -1,0 +1,11 @@
+user_id,login_time,location,action_count
+1,123,Office,5
+2,130,Home,3
+3,120,Office,7
+4,200,Cafe,20
+5,150,Home,6
+6,180,Office,4
+7,210,Home,22
+8,165,Cafe,8
+9,125,Office,3
+10,230,Home,30
